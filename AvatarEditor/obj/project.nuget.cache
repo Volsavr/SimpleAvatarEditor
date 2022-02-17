@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gG5MHhXHX20BGpuO8EV2lwXGaCgjh3Er3/FEY37u32V5JVoaVKp3BhTtY2CuwdxBDo02A2wdLxd0w9N0jsbadg==",
+  "success": true,
+  "projectFilePath": "D:\\work\\work\\Projects\\Windows\\SimpleAvatarEditor\\AvatarEditor\\AvatarEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babiy\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
